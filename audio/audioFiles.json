@@ -1,0 +1,73 @@
+[
+  {
+    "url": "/audio/[Library of Ruina]_Roland_Boss_(Piano_Cover_&_Illustration_by_H_sica).mp3",
+    "title": "[Library of Ruina] Roland Boss (Piano Cover & Illustration by H_sica)",
+    "author": "H_Sica",
+    "image": "/images/title/Roland_Boss_library_of_ruina_h_sica.png",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/Limbus-Company-Mili-Between-two-worlds.mp3",
+    "title": "Limbus-Company-Mili-Between-two-worlds",
+    "author": "H_Sica",
+    "image": "/images/title/Between_two_worlds_piano_h_sica.png",
+    "type": "video",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/Library-of-Ruina-Angela-Boss-Piano.mp3",
+    "title": "Library-of-Ruina-Angela-Boss-Piano",
+    "author": "H_Sica",
+    "image": "/images/title/Library-of-Ruina-Angela-Boss-Piano.png",
+    "type": "video",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/The_New_Order_Last_Days_of_Europe_Official_Soundtrack.mp3",
+    "title": "The New Order: Last Days of Europe Official Soundtrack",
+    "author": "XoeSara",
+    "image": "/images/title/The_New_Order_Last_Days_of_Europe_Official_Soundtrack.png",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/Main_theme-Metro_Last_Light_Soundtrack.mp3",
+    "title": "Main theme - Metro: Last Light Soundtrack",
+    "author": "strelokyas",
+    "image": "/images/title/Main_theme-Metro_Last_Light_Soundtrack.png",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/Mili-Between-Two-Worlds-Limbus-Company.mp3",
+    "title": "Limbus Company Mili Between two worlds",
+    "author": "Mili",
+    "image": "/images/title/Limbus-Company-Mili-Between-two-worlds.jpg",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/killer_neuron.mp3",
+    "title": "Killer neuron / 佐高陵平 feat. 藍月なくる",
+    "author": "佐高陵平",
+    "image": "/images/title/killer_neuron.jpg",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/utopiosphere_platonism.mp3",
+    "title": "Utopiosphere -Platonism-",
+    "author": "Mili",
+    "image": "/images/title/utopiosphere_platonism.jpg",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  },
+  {
+    "url": "/audio/Shadowlord-Nier-Replicant-METAL.mp3",
+    "title": "Shadowlord-Nier-Replicant-METAL",
+    "author": "FamilyJule",
+    "image": "/images/title/Shadowlord-Nier-Replicant-METAL.jpg",
+    "type": "audio",
+    "videoUrl":"[Library of Ruina] Angela Boss (Piano Cover & Illustration by H_sica).mp4"
+  }
+]
